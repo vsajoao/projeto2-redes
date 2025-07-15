@@ -1,5 +1,5 @@
 # Ambiente virtual do Python
-/env/
+/venv/
 
 # Arquivos compilados do Python
 __pycache__/
