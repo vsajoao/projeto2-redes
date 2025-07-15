@@ -1,0 +1,10 @@
+# Ambiente virtual do Python
+/env/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração de editores (opcional)
+.vscode/
+.idea/
